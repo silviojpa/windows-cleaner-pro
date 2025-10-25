@@ -16,7 +16,8 @@ O aplicativo é capaz de limpar caches de sistema, arquivos temporários, logs e
 
 | Interface Principal | Resultados da Limpeza |
 | :---: | :---: |
-| <img width="451" height="726" alt="image" src="https://github.com/user-attachments/assets/f19d97b4-d468-47ed-a223-dd071ba28289" /> | <img src="assets/preview_results.png" alt="Preview dos resultados da limpeza" width="350"/> |
+| <img width="451" height="726" alt="image" src="https://github.com/user-attachments/assets/f19d97b4-d468-47ed-a223-dd071ba28289" /> | <img width="449" height="721" alt="image" src="https://github.com/user-attachments/assets/5cf8cf2e-df76-4501-a512-5b8bcee2ccf6" />
+ |
 
 *(Nota: Substitua `assets/preview_main.png` e `assets/preview_results.png` por capturas de tela do seu próprio projeto, como as que foram geradas.)*
 
